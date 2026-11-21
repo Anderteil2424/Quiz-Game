@@ -38,6 +38,14 @@ gcc main.c -o quiz.exe
 ./quiz.exe
 ```
 
+## Captures d'écran
+
+### Accueil et question
+![Accueil et question](Accueil%2BQuestion.png)
+
+### Résultat final
+![Résultat final](Resultat.png)
+
 ## Alex Théraulaz
 
-Projet personnel réalisé dans le cadre de mon apprentissage de la programmation.
+Projet personnel de programmation en langage C.
