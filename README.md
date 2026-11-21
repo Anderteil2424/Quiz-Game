@@ -35,7 +35,7 @@ gcc main.c -o quiz.exe
 5. Lancer le jeu avec :
 
 ```bash
-./quiz.exe
+.\quiz.exe
 ```
 
 ## Captures d'écran
@@ -46,6 +46,8 @@ gcc main.c -o quiz.exe
 ### Résultat final
 ![Résultat final](Resultat.png)
 
-## Alex Théraulaz
+## Auteur
+
+Alex Théraulaz
 
 Projet personnel de programmation en langage C.
