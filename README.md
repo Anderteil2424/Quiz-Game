@@ -46,6 +46,10 @@ gcc main.c -o quiz.exe
 ### Résultat final
 ![Résultat final](Resultat.png)
 
+## Vidéo de démonstration
+
+[Regarder la vidéo de démonstration](Demonstration-Quiz-Game.mov)
+
 ## Auteur
 
 Alex Théraulaz
