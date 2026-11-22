@@ -48,7 +48,7 @@ gcc main.c -o quiz.exe
 
 ## Vidéo de démonstration
 
-[Regarder la vidéo de démonstration](Demonstration-Quiz-Game.mov)
+[Regarder la vidéo du projet](https://github.com/Anderteil2424/Quiz-Game/raw/refs/heads/main/Demonstration-Quiz-Game.mov)
 
 ## Auteur
 
